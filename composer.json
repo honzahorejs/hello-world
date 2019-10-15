@@ -2,11 +2,11 @@
     "name": "honzahorejs/hello-world",
     "type": "library",
     "require": {
-        "php": "^7.3",
+        "php": "^7.1",
         "nette/nette": "^3.0@dev"
     },
     "require-dev": {
-        "php": "^7.3"
+        "php": "^7.1"
     },
     "license": "MIT",
     "authors": [
